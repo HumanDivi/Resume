@@ -1,0 +1,19 @@
+[
+    {
+        "mainHeading": "Education",
+        "heading": "University of Toledo",
+        "description": "Bachelor of Science, Computer Science and Engineering with Minor in Business Administration",
+        "timeFrame": "Graduated May 2021",
+        "location": "Toledo, OH",
+        "details": "GPA 3.5 (Awarded Cum Laude)"
+    },
+    {
+        "mainHeading": "Education",
+        "heading": "University of Massachusetts Lowell",
+        "description": "Master in Business Administration, Concentration: Entrepreneurship",
+        "timeFrame": "Expected May 2023",
+        "location": "Lowell, MA",
+        "details": "GPA 3.95"
+    }
+
+]
